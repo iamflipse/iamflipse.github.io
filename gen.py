@@ -6,6 +6,7 @@ groups=[
 ("maps-of-meaning-wiki","Maps of Meaning","Plain-language study wiki for Peterson's Two Ways of Looking at the World lectures."),
 ]),
 ("Leadership & marketing",[
+("joseph-tsar-channel-wiki","Joseph Tsar on Speaking","99 long-form YouTube videos: clarity, words, and presence, 2023 to 2026."),
 ("joseph-tsar-leader-wiki","Communicate Like a Leader","Joseph Tsar's full training: intention, focus, body and breath, source and release."),
 ("jay-yang-wiki","Jay Yang Wiki","Jay Yang's marketing ideas, distilled."),
 ("jay-yang-course","Writing Words That Make People Buy","Jay Yang's marketing course, from the Full Courses trilogy."),
