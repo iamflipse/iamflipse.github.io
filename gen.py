@@ -20,6 +20,7 @@ groups=[
 ("mets-nma-wiki","Metabolic Syndrome Lifestyle","Chen et al. 2026: exercise, diet and combined interventions compared."),
 ("mitoq-wiki","MitoQ","The mitochondria-targeted antioxidant and age-related decline."),
 ("tcm-aging-wiki","TCM & Aging","Traditional Chinese medicine formulas and anti-aging mechanisms."),
+("infrared-light-mitochondria-wiki","When Light Meets Metabolism","Roger Seheult, Nov 2026: infrared light, mitochondria, and electron transfer."),
 ("longevity-scenarios-2031-wiki","Longevity 2031","David Wood's three scenarios and ten levers for 2031."),
 ("ai-longevity-law-wiki","AI, Longevity & Law","Truby & Kantiana 2026: AI longevity tech and international law."),
 ("ai-critical-thinking-wiki","AI & Critical Thinking","Pearson 2026 (Nature): AI's effect on memory and reasoning."),
@@ -49,7 +50,7 @@ h2{{font-size:13px;text-transform:uppercase;letter-spacing:.08em;color:var(--mut
 <header><h1>Steve's Wikis</h1><p>{n} study wikis: faith, leadership, marketing, health and longevity.</p></header>
 <input id="q" type="search" placeholder="Filter wikis…" aria-label="Filter wikis">
 {sec}
-<footer>Updated 2026-11-12 · <a href="https://github.com/iamflipse" style="color:var(--acc)">github.com/iamflipse</a></footer>
+<footer>Updated 2026-11-16 · <a href="https://github.com/iamflipse" style="color:var(--acc)">github.com/iamflipse</a></footer>
 </main><script>
 document.getElementById('q').addEventListener('input',e=>{{const v=e.target.value.toLowerCase();
 document.querySelectorAll('section').forEach(s=>{{let any=0;s.querySelectorAll('.card').forEach(c=>{{const m=c.textContent.toLowerCase().includes(v);c.classList.toggle('hide',!m);any|=m}});s.classList.toggle('hide',!any)}})}});
