@@ -8,6 +8,7 @@ groups = [
 ("personality-unified-theory-wiki","Personality: A Unified Theory","Eight lectures: personality as a state and as a transformation."),
 ]),
 ("Leadership & marketing",[
+("naval-wiki","Naval","152 sources: wealth, leverage, judgment, and the long game."),
 ("joseph-tsar-channel-wiki","Joseph Tsar on Speaking","99 long-form YouTube videos: clarity, words, and presence, 2023 to 2026."),
 ("joseph-tsar-leader-wiki","Communicate Like a Leader","Joseph Tsar's full training: intention, focus, body and breath, source and release."),
 ("jay-yang-wiki","Jay Yang Wiki","Jay Yang's marketing ideas, distilled."),
