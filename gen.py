@@ -4,6 +4,7 @@ groups = [
 ("Faith & meaning",[
 ("sermon-on-the-mount-wiki","Sermon on the Mount","Full text of Matthew 5–7 with Jordan Peterson's lecture commentary, plus four video reels."),
 ("maps-of-meaning-wiki","Maps of Meaning","Plain-language study wiki for Peterson's Two Ways of Looking at the World lectures."),
+("story-of-experience-wiki","The Story of Experience","Twelve lectures: what the world is, how to act, and the story that joins them."),
 ("personality-unified-theory-wiki","Personality: A Unified Theory","Eight lectures: personality as a state and as a transformation."),
 ]),
 ("Leadership & marketing",[
