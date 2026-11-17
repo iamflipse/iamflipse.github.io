@@ -15,6 +15,7 @@ groups = [
 ("jay-yang-course","Writing Words That Make People Buy","Jay Yang's marketing course, from the Full Courses trilogy."),
 ]),
 ("Health, aging & longevity",[
+("nasm-wellness-coaching-wiki","NASM Wellness Coaching","Study notes on NASM's Principles of Wellness Coaching: 24 concept pages and a 73-lesson map."),
 ("martin-picard-wiki","Martin Picard Interviews","24 long-form YouTube interviews: mitochondria, energy, stress, and gray hair."),
 ("maha-roundtable-wiki","MAHA Roundtable","American Health & Nutrition: A Second Opinion."),
 ("biological-age-omics-wiki","Biological Age & Lifestyle","You, Horvath et al. 2026: ageing clocks, and how activity, sleep and diet shape them."),
